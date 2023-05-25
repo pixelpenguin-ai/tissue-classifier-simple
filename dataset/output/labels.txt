@@ -1,0 +1,4 @@
+connective 0
+epithelial 1
+muscle 2
+nervous 3
